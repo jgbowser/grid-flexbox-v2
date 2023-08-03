@@ -1,0 +1,1 @@
+A slimmed down version of the [repo](https://github.com/FrontendMasters/grid-flexbox-v2) for the Frontend Masters course _CSS Grid & Flexbox for Responsive Layouts, V2_ that features mostly only the VSCode examples used in class and removes all the gatsby bits and other infrastructure that are used for the frontend masters course website.
